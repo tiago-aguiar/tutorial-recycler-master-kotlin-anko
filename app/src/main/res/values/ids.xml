@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="app_bar" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="txt_icon" type="id"/>
+    <item name="txt_user" type="id"/>
+    <item name="txt_subject" type="id"/>
+    <item name="txt_preview" type="id"/>
+    <item name="txt_date" type="id"/>
+    <item name="img_star" type="id"/>
+</resources>
